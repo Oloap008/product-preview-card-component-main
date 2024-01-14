@@ -18,7 +18,8 @@ body {
     display: grid;
     place-items: center;
 
-    height: 100vh;
+    min-height: 100vh;
+    min-height: 100svh;
 
     background-color: var(--clr-primary-400);
     color: var(--clr-neutral-600);
